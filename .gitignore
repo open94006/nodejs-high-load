@@ -1,0 +1,12 @@
+# important files
+token.md
+k6/tokens.json
+.env
+.DS_Store
+
+# node_modules
+node_modules
+*/node_modules
+
+# build output
+server/dist
